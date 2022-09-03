@@ -4,7 +4,7 @@
 
 https://cloud-contact-store.herokuapp.com/
 
-Cloud Contact App Where User can Register, Login and then keep and manage their contacts in the cloud. In this project i have use Node Js, Express, Mongodb for Serving api and React With Redux for Frontend.
+Cloud Contact App Where User can Register, Login and then keep and manage their contacts in the cloud. In this project i have use Node Js, Express, Mongodb for Serving api and React for Frontend.
 
 # Install dependencies for server
 
